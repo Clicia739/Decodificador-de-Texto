@@ -38,13 +38,13 @@ textarea {
     color: black;
 }
 
-.container-entrada p .imagem-titulo {
+.container-entrada p image {
     margin-right: 8px;
     position: relative;
     top: 2px;
 }
 
-.container-entrada p .imagem-titulo {
+.container-entrada p image {
     margin-top: 50px;
 }
 

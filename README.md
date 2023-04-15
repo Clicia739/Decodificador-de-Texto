@@ -16,3 +16,7 @@ Desenvolvi um site Challenge ONE - Lógica de Programação - Decodificador de T
 
 Acesse o projeto aqui, online!
 Atualmente, o armazenamento de data é pelo navegador, portanto, ao tentar usar em diferentes dispositivos/navegadores, o progresso não estará sincronizado. A adição, remoção e alteração de dados é feita dentro do código, não dando ao usuário, ainda, uma opção de interação suave.
+
+##### Imagem do Projeto 
+
+![photo_2023-04-15_11-45-34](https://user-images.githubusercontent.com/108556269/232231540-88183e7a-3ecf-47b6-aff6-8d4eb54b32a5.jpg)

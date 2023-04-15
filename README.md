@@ -1,5 +1,6 @@
 # Challenge ONE - Lógica de Programação - Decodificador de Texto.
-
+<img src="![photo_2023-04-15_11-07-21](https://user-images.githubusercontent.com/108556269/232230247-dc709773-de48-4173-9777-8d35487287ae.jpg)
+ ">
 
 ## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
